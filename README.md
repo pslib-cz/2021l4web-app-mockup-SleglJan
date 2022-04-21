@@ -33,20 +33,4 @@ Největší problém je zobrazení mapy a ukázaní aktuálního progresu na map
 
 ## Jednotlivé stránky
 
-### Homepage
-![homepage.](https://github.com/pslib-cz/2021l4web-app-mockup-SleglJan/blob/main/design/Homepage.png){ 400px, 865px }
-
-### Vytvoření trasy
-![vytvoreni_tras.](https://github.com/pslib-cz/2021l4web-app-mockup-SleglJan/blob/main/design/Vytvoreni_tras.png){ 400px, 865px }
-
-### Seznam výzev
-![seznam_tras.](https://github.com/pslib-cz/2021l4web-app-mockup-SleglJan/blob/main/design/Seznam_tras.png){ 400px, 865px }
-
-### Community tab - Skupiny
-![skupiny.](https://github.com/pslib-cz/2021l4web-app-mockup-SleglJan/blob/main/design/Community_tab-skupiny.png){ 400px, 865px }
-
-### Community tab - Novinky
-![novinky.](https://github.com/pslib-cz/2021l4web-app-mockup-SleglJan/blob/main/design/Community_tab-novinky.png){ 400px, 865px }
-
-### Profil
-![profil.](https://github.com/pslib-cz/2021l4web-app-mockup-SleglJan/blob/main/design/Profil.png){ 400px, 865px }
+Screenshoty designu jsou k dispozici zde: [Design](https://github.com/pslib-cz/2021l4web-app-mockup-SleglJan/tree/main/design)
