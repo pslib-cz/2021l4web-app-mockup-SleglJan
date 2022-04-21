@@ -27,7 +27,7 @@ V projektu jsou použity dva fonty
 
 Jako první máme domovskou stránku, druhá je pro seznam aktuálních tras. V případě, že žádná ještě není tak se ukazuje na domovské stránce rovnou vytvoření nové výzvy. Jako třetí je tzv. "community tab". Jako základní stav je tabulka skupin. Další možnost je nahoře se překliknout na novinky od ostatních přátel a lidí ve vašich skupinách. Poslední je osobní profil, kde vidíme jméno, foto a poslední aktivity. Je možnost se překliknout na statistiky a osobní údaje.
 
-##Problémy
+## Problémy
 
 Největší problém je zobrazení mapy a ukázaní aktuálního progresu na mapě. Pravděpodobně je nutné použít asi API? nějakých map a využít spojení těch dvou míst. Já osobně bych využíval nejrychlejší cestu, ale je nutné ji uložit protože třeba google mapy se mění na základě dopravní situace a stím by se měnili i kilometry celkové trasy. Je nutné použít databázi na ukládání všech dat. Bylo by potřeba vytvořit profily a registrační systém. Další oříšek by bylo propojení jednotlivých fitness trackerů a využití jejich dat, primárně gpx souborů a využití jejich dat.
 
